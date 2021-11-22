@@ -1,5 +1,5 @@
 const list_cod = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*𝗟𝗜𝗦𝗧 𝗖𝗣 𝗖𝗢𝗗𝗠 𝗟𝗔𝗫𝗬 𝗦𝗧𝗢𝗥𝗘さ*
 				
 PROSES	1-60Mnt 1X24 Jam			
 OPEN	10.00-19.00			
