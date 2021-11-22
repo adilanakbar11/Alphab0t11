@@ -1,5 +1,5 @@
 const list_sausage = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*𝗟𝗜𝗦𝗧 𝗖𝗔𝗡𝗗𝗬 さ*
 	
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	09.00-21.00		
