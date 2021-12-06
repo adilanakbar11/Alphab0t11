@@ -13,11 +13,11 @@ return `「 *𝗟𝗜𝗦𝗧 𝗛𝗔𝗥𝗚𝗔 𝗦𝗘𝗪𝗔 𝗟𝗔𝗫
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 5K
+⬡ JADI OWNER BOT PERMANEN 30K
 
 
 ⬣ MINAT? PM
-⬡ wa.me/6285893111373
+⬡ wa.me/6282117489822
 
 
 NOTE : 
