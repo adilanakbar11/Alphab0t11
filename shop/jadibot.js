@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi _ +62 858-9311-1373
+│ ⤷ _Minat? Hubungi _ +62 821-1748-9822
 │
 ╰──「 *Thank's* 」
 `
